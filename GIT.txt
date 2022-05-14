@@ -1,3 +1,5 @@
+estudando
+
 hello world
 
 Continuação da aula de GIT
