@@ -1,4 +1,9 @@
 nome: victor pereira reis
 Senha: aulagit
+<<<<<<< HEAD
 nome: giovanna Brito da Silva Reis
 Senha: aula git
+=======
+nome: victor pereira reis
+Senha: aulagit
+>>>>>>> login
